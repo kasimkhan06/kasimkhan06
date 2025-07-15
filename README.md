@@ -1,7 +1,12 @@
 # 💫 About Me:
 🔭 I’m currently working on: Projects involving machine learning, deep learning, and data analysis.<br>🌱 I’m currently learning: ML/DL libraries (e.g., TensorFlow, PyTorch), data science concepts, and applied mathematics.<br>👯 I’m looking to collaborate on: Open-source ML/DL projects and data-driven applications.<br>🤝 I’m looking for help with: Real-world datasets and optimizing deep learning models.<br>💬 Ask me about: Python, machine learning basics, and neural network implementation.
 
+## 📌 Recent Projects:
+- 🔍 [**Movie Recommendation System**](https://github.com/kasimkhan06/Movie-Recommendation-System):  
+  Built a hybrid recommender system using content-based and collaborative filtering techniques to suggest personalized movie choices based on user preferences and behavior.
 
+- ✍️ [**Autocorrect & Autocomplete System**](https://github.com/kasimkhan06/Autocorrect-Autocomplete-Proj):  
+  Developed an intelligent text prediction tool that offers real-time autocorrect and autocomplete suggestions using NLP techniques and edit distance algorithms.
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasimkkhan/)  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kasimkhan/)  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/lonelyservant)  
 
