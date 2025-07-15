@@ -2,7 +2,7 @@
 🔭 I’m currently working on: Projects involving machine learning, deep learning, and data analysis.<br><br>🌱 I’m currently learning: ML/DL libraries (e.g., TensorFlow, PyTorch), data science concepts, and applied mathematics.<br><br>👯 I’m looking to collaborate on: Open-source ML/DL projects and data-driven applications.<br><br>🤝 I’m looking for help with: Real-world datasets and optimizing deep learning models.<br><br>💬 Ask me about: Python, machine learning basics, and neural network implementation.<br><br>📫 How to reach me: kasimkkhan06@gmail.com
 
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasimkkhan/)  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kasimkhan/)  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/lonelyservant)  
 
 # 💻 Tech Stack:
