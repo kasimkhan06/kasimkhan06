@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Projects involving machine learning, deep learning, and data analysis.<br><br>🌱 I’m currently learning: ML/DL libraries (e.g., TensorFlow, PyTorch), data science concepts, and applied mathematics.<br><br>👯 I’m looking to collaborate on: Open-source ML/DL projects and data-driven applications.<br><br>🤝 I’m looking for help with: Real-world datasets and optimizing deep learning models.<br><br>💬 Ask me about: Python, machine learning basics, and neural network implementation.<br><br>📫 How to reach me: kasimkkhan06@gmail.com
+🔭 I’m currently working on: Projects involving machine learning, deep learning, and data analysis.<br>🌱 I’m currently learning: ML/DL libraries (e.g., TensorFlow, PyTorch), data science concepts, and applied mathematics.<br>👯 I’m looking to collaborate on: Open-source ML/DL projects and data-driven applications.<br>🤝 I’m looking for help with: Real-world datasets and optimizing deep learning models.<br><br>💬 Ask me about: Python, machine learning basics, and neural network implementation.<br>📫 How to reach me: kasimkkhan06@gmail.com
 
 
 ## 🌐 Connect With Me:
