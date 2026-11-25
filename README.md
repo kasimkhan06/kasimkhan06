@@ -1,15 +1,119 @@
-# 💫 About Me:
-🔭 I’m currently working on: Projects involving machine learning, deep learning, and data analysis.<br>🌱 I’m currently learning: ML/DL libraries (e.g., TensorFlow, PyTorch), data science concepts, and applied mathematics.<br>👯 I’m looking to collaborate on: Open-source ML/DL projects and data-driven applications.<br>🤝 I’m looking for help with: Real-world datasets and optimizing deep learning models.<br>💬 Ask me about: Python, machine learning basics, and neural network implementation.
+ <div align="center">
 
-## 📌 Recent Projects:
-- 🔍 [**Movie Recommendation System**](https://github.com/kasimkhan06/Movie-Recommendation-System):  
-  Built a hybrid recommender system using content-based and collaborative filtering techniques to suggest personalized movie choices based on user preferences and behavior.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=Kasim%20Khan&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 
-- ✍️ [**Autocorrect & Autocomplete System**](https://github.com/kasimkhan06/Autocorrect-Autocomplete-Proj):  
-  Developed an intelligent text prediction tool that offers real-time autocorrect and autocomplete suggestions using NLP techniques and edit distance algorithms.
-## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasimkkhan/)  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kasimkhan/)  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kasimkkhan)  
+# 👋 Hey there, I'm Kasim!
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Software Engineer | AI & Machine Learning Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+intelligent+applications+with+AI;Exploring+Generative+AI+%26+RAG;Learning+and+building+every+day;Turning+ideas+into+real-world+solutions" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/kasimkhan06">
+<img src="https://komarev.com/ghpvc/?username=kasimkhan06&label=Profile%20Views&color=0891b2&style=for-the-badge" alt="Profile views"/>
+</a>
+<a href="https://github.com/kasimkhan06?tab=followers">
+<img src="https://img.shields.io/github/followers/kasimkhan06?label=Followers&style=for-the-badge&color=6366f1" alt="GitHub followers"/>
+</a>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```yaml
+name: Kasim Khan
+role: Software Engineer
+interests:
+  - Artificial Intelligence
+  - Generative AI
+  - Retrieval Augmented Generation (RAG)
+  - Machine Learning
+currently_building: Learning GenAI End to End
+currently_learning: Generative AI & RAG
+open_to_collaborate: GenAI Projects
+```
+
+- 🔭 Currently working on **[Learning GenAI End to End](https://github.com/kasimkhan06/GenAi-Series)**
+- 🌱 Exploring **Generative AI, LLMs and RAG**
+- 👯 Looking to collaborate on **GenAI Projects**
+- 🤝 Always open to learning and sharing knowledge about AI
+- 💬 Ask me about **AI and Machine Learning**
+- 📫 Reach me at **[kasimkkhan06@gmail.com](mailto:kasimkkhan06@gmail.com)**
+
+---
+
+## 🧠 What I'm Exploring
+
+<div align="center">
+
+| Area | Focus |
+|:---:|:---|
+| 🤖 Generative AI | LLMs and AI-powered applications |
+| 🔎 RAG | Retrieval, embeddings and vector databases |
+| 🧠 Machine Learning | Intelligent models and predictions |
+| ⚡ AI Engineering | Building practical AI solutions |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,php&theme=dark" />
+
+### 🤖 AI / Machine Learning / Data Science
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,linux,git&theme=dark" />
+
+### 🌐 Web Development & Databases
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,flask,mongodb,mysql,postgres&theme=dark" />
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://twitter.com/_khankasim_">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/kasimkkhan">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://kaggle.com/kasimkkhan">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+<a href="https://www.leetcode.com/kasimkhan">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="mailto:kasimkkhan06@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 💡 Building today. Innovating tomorrow.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0F172A&height=100&section=footer" width="100%" />
+
+</div>
